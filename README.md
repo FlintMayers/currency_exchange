@@ -1,6 +1,6 @@
 # README #
 
-Task from Bite
+A small service with unit tests
 
 ### How do I get set up? ###
     Clone this repository
